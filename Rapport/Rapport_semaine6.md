@@ -13,5 +13,5 @@ Pour le TP J’ai avancé dans le Chess en réalisant les Katas 4 et 5. La Kata 
 
 - **TP1 MyCounter :** [TP1_Mycounter](https://github.com/abirallaoui/Project1_Pharo)
 - **TP2 Dés :** [TP2_DSL](https://github.com/abirallaoui/PROJET2_PHARO_DSL)
-- **TP3 Flags :** TP3_COuntryAndFlags](https://github.com/abirallaoui/PROJET3_PHARO_COUNTRY_AND_FLAGS)
+- **TP3 Flags :** [TP3_CountryAndFlags](https://github.com/abirallaoui/PROJET3_PHARO_COUNTRY_AND_FLAGS)
 - **TP4 Chess :** [TP4_Chess](https://github.com/abirallaoui/PROJET4_CHESS/tree/main)
